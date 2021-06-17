@@ -1,0 +1,20 @@
+{
+  "Teams" : {
+    "Team 2" : {
+      "isButtonPressed" : false,
+      "timeStamp" : 0
+    },
+    "Team 3" : {
+      "isButtonPressed" : false,
+      "timeStamp" : 0
+    },
+    "Team 4" : {
+      "isButtonPressed" : false,
+      "timeStamp" : 0
+    },
+    "Team1" : {
+      "isButtonPressed" : false,
+      "timeStamp" : 0
+    }
+  }
+}
